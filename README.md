@@ -1,6 +1,6 @@
 # Probo JWT
 
-[Probo.ci](http://probo.ci) is an  
+[Probo.ci](http://probo.ci) is an open source continuous integration and quality assurance tool. Probo.ci is built using microservices and we are leveraging JWT's to allow service to defer authorization in a coordinated, consistent, and standards compliant way.
 
 ### Schema
 
