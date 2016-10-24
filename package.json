@@ -1,0 +1,26 @@
+{
+  "name": "probo-jwt",
+  "version": "0.0.0",
+  "description": "Provides a set of helpers and abstractions around the JWT schema used by probo services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProboCI/probo-jwt.git"
+  },
+  "keywords": [
+    "probo",
+    "probo.ci"
+  ],
+  "author": "Howard Tyson <howard@howardtyson.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ProboCI/probo-jwt/issues"
+  },
+  "homepage": "https://github.com/ProboCI/probo-jwt#readme",
+  "dependencies": {
+    "jsonwebtoken": "^7.1.9"
+  }
+}
